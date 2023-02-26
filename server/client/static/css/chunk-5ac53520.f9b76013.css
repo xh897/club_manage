@@ -1,0 +1,102 @@
+.article-wrap[data-v-1cc60693] {
+    min-height: 100vh;
+    width: 10rem;
+    background-color: #fff
+}
+
+.article-wrap .title[data-v-1cc60693] {
+    color: #c59855;
+    font-size: .4rem;
+    border-left: 4px solid #c59855;
+    padding-left: .5rem;
+    font-weight: 600;
+    margin: .5rem
+}
+
+.article-wrap .time[data-v-1cc60693] {
+    color: #666;
+    font-size: .3rem;
+    padding-left: .5rem;
+    margin-bottom: .4rem
+}
+
+[data-v-1cc60693] .content {
+    overflow: scroll;
+    border-bottom: 1px solid #eee;
+    padding: .4rem;
+    border-top: 1px dashed #eee;
+    font-size: 14px
+}
+
+[data-v-1cc60693] .content .image {
+    margin: 0 !important
+}
+
+[data-v-1cc60693] .content p {
+    margin: .2rem 0
+}
+
+[data-v-1cc60693] .content img {
+    width: 100% !important;
+    height: 100% !important
+}
+
+[data-v-1cc60693] .content .ql-size-small {
+    font-size: 10px !important
+}
+
+[data-v-1cc60693] .content .ql-size-large {
+    font-size: 18px !important
+}
+
+[data-v-1cc60693] .content .ql-size-huge {
+    font-size: 32px !important
+}
+
+.message[data-v-1cc60693] {
+    padding: .4rem
+}
+
+.message .send[data-v-1cc60693] {
+    display: flex;
+    margin-left: auto
+}
+
+.comment[data-v-1cc60693] {
+    padding: .4rem;
+    border-top: 1px solid #eee;
+    background-color: #f3f3f3
+}
+
+.comment-item[data-v-1cc60693] {
+    margin-bottom: .4rem;
+    display: flex
+}
+
+.comment-item .left[data-v-1cc60693] {
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem
+}
+
+.comment-item .left img[data-v-1cc60693] {
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover
+}
+
+.comment-item .right[data-v-1cc60693] {
+    flex: 1;
+    flex-direction: column;
+    display: flex
+}
+
+.comment-item .right-title[data-v-1cc60693] {
+    font-size: .3rem;
+    color: #aaa
+}
+
+.comment-item .right-content[data-v-1cc60693] {
+    font-size: .33rem
+}
